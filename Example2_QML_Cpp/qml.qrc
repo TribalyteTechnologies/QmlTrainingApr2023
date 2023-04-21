@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Tribalyte-ideas-blanco.png</file>
+        <file>tribalyte-tech-blanco.png</file>
+    </qresource>
+</RCC>
